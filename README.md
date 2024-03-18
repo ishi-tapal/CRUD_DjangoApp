@@ -9,6 +9,6 @@ Users can add new entries with employee id, name, contact, email id and designat
 
 
 ### Usage
-* **Adding a New Entry:** Fill out the "Add New Entry" form with name, email, and password to add a new record.
-* **Updating an Entry:** Click the "Edit" button next to a record to modify its details.
-* **Deleting an Entry:** Click the "Delete" button next to a record to remove it from the list.
+* **Adding a New Entry:** Fill out the form with employee id, name, contact, email id and designation.
+* **Updating an Entry:** Click the "Edit" icon next to a record to modify its details.
+* **Deleting an Entry:** Click the "Delete" icon next to a record to remove it from the list.
